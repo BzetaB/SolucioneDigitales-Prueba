@@ -1,0 +1,16 @@
+# Archivos de usuario y de entorno
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Salidas de compilación
+bin/
+obj/
+TestResults/
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
